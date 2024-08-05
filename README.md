@@ -47,7 +47,7 @@ Let's go through an example of creating an image project.
 ## My Link 
 https://teachablemachine.withgoogle.com/models/6bzose_7l/
 
-## Example 
+## Photo  
 ![Screen Shot 1446-02-01 at 11 09 37 PM](https://github.com/user-attachments/assets/2340d73f-03e2-4188-8968-57512dcbdea3)# TeachableMachines
 
 
