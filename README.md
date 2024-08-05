@@ -1,4 +1,3 @@
-![Screen Shot 1446-02-01 at 11 09 37 PM](https://github.com/user-attachments/assets/2340d73f-03e2-4188-8968-57512dcbdea3)# TeachableMachines
 
 Teachable Machine is a web-based tool by Google that allows you to create machine learning models without needing to write any code. Here’s a step-by-step guide to get you started:
 
@@ -45,13 +44,13 @@ Let's go through an example of creating an image project.
 - **Regular Updates**: Continuously update your model with new data to improve accuracy.
 
 ## Example 
+![Screen Shot 1446-02-01 at 11 09 37 PM](https://github.com/user-attachments/assets/2340d73f-03e2-4188-8968-57512dcbdea3)# TeachableMachines
+
+
+![Screen Shot 1446-02-01 at 11 10 03 PM](https://github.com/user-attachments/assets/67c2210f-da39-4f41-b42a-0877a3ab704f)
 
 
 
-
-
-
-
-
+![Screen Shot 1446-02-01 at 11 11 01 PM](https://github.com/user-attachments/assets/106f7f7d-4a5c-401e-bc24-33636ab1a385)
 
 
