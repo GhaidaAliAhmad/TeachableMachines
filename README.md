@@ -43,6 +43,10 @@ Let's go through an example of creating an image project.
 - **Consistent Lighting**: If using a webcam, ensure consistent lighting conditions.
 - **Regular Updates**: Continuously update your model with new data to improve accuracy.
 
+
+## My Link 
+https://teachablemachine.withgoogle.com/models/6bzose_7l/
+
 ## Example 
 ![Screen Shot 1446-02-01 at 11 09 37 PM](https://github.com/user-attachments/assets/2340d73f-03e2-4188-8968-57512dcbdea3)# TeachableMachines
 
